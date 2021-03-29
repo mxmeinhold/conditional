@@ -51,7 +51,7 @@
     "babel-preset-stage-1": "6.5.0",
     "browser-sync": "2.13.0",
     "chai": "3.5.0",
-    "compression": "1.6.2",
+    "compression": "1.7.4",
     "del": "2.2.1",
     "eslint-config-google": "^0.6.0",
     "exports-loader": "^0.6.3",
